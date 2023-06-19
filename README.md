@@ -1,4 +1,4 @@
-# ML-CV-MODEL-object_classification
+# Object Classification using Siamese Net and Triplet Loss
 
 1. This repo contains an implementation of siamese network using triplett loss for object identification. <br>
 2. The backbone used for this network in VGG19 having pretrained imagenet weights. <br>
